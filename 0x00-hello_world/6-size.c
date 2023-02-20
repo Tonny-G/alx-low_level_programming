@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/*
- * main - Prints the sizes of various variable types 
- * based on type of computer it is run and compiled on..
+/**
+ * main - Program that prints the size of various types 
+ * based on the computer it is compiled and run on..
  * Return: Always 0.
  */
 
